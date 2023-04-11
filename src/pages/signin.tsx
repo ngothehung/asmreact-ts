@@ -12,7 +12,6 @@ interface FormValues {
 }
 
 const Signin = (props: Props) => {
-  
   const navigate = useNavigate();
   const {
     register,
@@ -27,7 +26,7 @@ const Signin = (props: Props) => {
       const { data: user } = await login(data);
       console.log(user);
       localStorage.setItem('user', JSON.stringify(user));
-      
+      navigate('/admin/products'); 
     } catch (err) {
       setLoginError(true); // Nếu đăng nhập sai, set state loginError thành true để hiển thị thông báo
       console.log(err);
