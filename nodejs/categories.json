@@ -1,0 +1,19 @@
+[{
+  "_id": {
+    "$oid": "642a8e18869002e150d4c681"
+  },
+  "name": "danh mục A",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "642fae2037912a5da0b4468d"
+  },
+  "name": "danh mục B",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6433c39ae1165dab9a7d9bcd"
+  },
+  "name": "Product c",
+  "__v": 0
+}]

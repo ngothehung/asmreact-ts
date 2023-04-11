@@ -1,0 +1,15 @@
+[{
+  "_id": {
+    "$oid": "6433b511b93c2d04ef9a3e9f"
+  },
+  "name": "Product B",
+  "price": 100000,
+  "image": "https://cdn.shopify.com/s/files/1/0448/3081/8454/products/09LayeredGrey-1.jpg?v=1675758235&width=720",
+  "description": "decriptin",
+  "createdAt": {
+    "$date": "2023-04-10T07:04:49.461Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-10T08:00:25.828Z"
+  }
+}]

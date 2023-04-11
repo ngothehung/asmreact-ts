@@ -1,0 +1,54 @@
+[{
+  "_id": {
+    "$oid": "641db547dc1882ff41629766"
+  },
+  "name": "ngo the hung",
+  "email": "ngothehung2110@gmail.com",
+  "password": "234567",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "64216bcbdfcea01032f2ec4b"
+  },
+  "name": "hung ngo",
+  "email": "ngothehung@gmail.com",
+  "password": "$2a$10$5O0VmQT59MHWRKC7bQUhv.QceAB2aVxa1DW/.G13MAipndBOYVgnO",
+  "role": "member",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "64305fd8672d3c724062eb06"
+  },
+  "name": "hung",
+  "email": "ngothehung2110@hmamil.com",
+  "password": "$2a$10$Bzi0mp4qdwNmLYSQHJA3N.MD/EmQAtfnPpt/RqjT.7Jz78aDjisLy",
+  "role": "member",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "643396bf6ec7a62ec4332f8a"
+  },
+  "name": "hung",
+  "email": "admin@gmail.com",
+  "password": "$2a$10$J8sYcsVwMkOw7t9FzzaCAuXmX6WJz5KCAIxC4dKWzTUMcBg5A9Ela",
+  "role": "member",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "643396ed6ec7a62ec4332f8d"
+  },
+  "name": "hung",
+  "email": "hungntph21684@fpt.edu.vn",
+  "password": "$2a$10$N.YTH9bzPIgJN8EsJ1rTWemGaBVGQrANIubPWa7ABIz86JrYPNnZu",
+  "role": "member",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6433c733e1165dab9a7d9bd4"
+  },
+  "name": "html",
+  "email": "ngothe@gmail.com",
+  "password": "$2a$10$iqGcAYJTTpDUAHLLGu/nyOgNFgZ7mTTZ7zsXRSIEC3kAUVLLsFHcq",
+  "role": "member",
+  "__v": 0
+}]
